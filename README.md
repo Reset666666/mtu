@@ -2,7 +2,7 @@
 
 # 1.安装
 
-go get github.com/Reset666666/mtu/tree
+go get github.com/Reset666666/mtu
 
 # 2.network.dll
 

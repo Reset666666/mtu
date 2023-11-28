@@ -1,2 +1,3 @@
-module github.com/Reset666666/mtu
+module mtu
+
 go 1.20
