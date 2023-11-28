@@ -2,7 +2,8 @@ package mtu_test
 
 import (
 	"fmt"
-	"mtu"
+	"github.com/Reset666666/mtu"
+
 	"testing"
 )
 
